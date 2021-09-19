@@ -1,0 +1,6 @@
+ /* mobile */
+@media (min-width: 739px) {
+    .disbooad{
+        max-width:414px
+    }
+}
